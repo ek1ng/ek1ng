@@ -1,7 +1,7 @@
 <h2>Welcome to my page!</h2>
 <p></br> I'm <b>ek1ng</b>, Fullstack developer from <b>HDU</b>, currently learning Vue. </p>
 
-## Things I code with
+## Things I code with 👨‍💻
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -13,14 +13,14 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## My repos are below👇
+## My repos are below 👇
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ek1ng&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ek1ng&theme=tokyonight" />
 </p>
 																     
-## Open source projects
+## Open source projects 🤝
 <table>
   <thead align="center">
     <tr border: none;>
