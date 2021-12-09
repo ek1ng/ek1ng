@@ -1,5 +1,5 @@
 <h2>Welcome to my page!</h2>
-<p></br> I'm <b>ek1ng</b>, Fullstack developer from <b>HDU</b>, currently learning Vue. </p>
+<p></br> I'm <b>ek1ng</b>, Fullstack developer from <b>HDU</b>, currently learning Vue and Svelte. </p>
 
 ## Things I code with 👨‍💻
 <p>
