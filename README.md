@@ -1,5 +1,5 @@
 <h2>Welcome to my page!</h2>
-<p> I'm <b>ek1ng</b>, frontend web developer from <b>HDU</b>, focus on security and frontend. </p>
+<p> I'm <b>ek1ng</b>, frontend web developer from <b>HDU</b>, focus on security and frontend.</p>
 
 ## Things I code with 👨‍💻
 <p>
@@ -13,12 +13,14 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-## My repos are below 👇
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ek1ng&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ek1ng&theme=tokyonight" />
 </p>
+
+
+
+
 																     
 <!-- ## Open source projects 🤝
 <table>
