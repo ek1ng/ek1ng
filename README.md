@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ek1ng&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ek1ng&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ek1ng&show_icons=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ek1ng" />
 </p>
 
 
@@ -51,3 +51,4 @@
   </tbody>
 </table>
  -->
+![github contribution grid snake animation](https://raw.githubusercontent.com/MHuiG/MHuiG/output/github-contribution-grid-snake.svg)
