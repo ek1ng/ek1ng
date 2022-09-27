@@ -1,5 +1,5 @@
 <h2>Welcome to my page!</h2>
-<p> I'm <b>ek1ng</b>, frontend web developer from <b>HDU</b>, focus on security and frontend.</p>
+<p> I'm <b>ek1ng</b>, who focus on web security.</p>
 
 ## Things I code with 👨‍💻
 <p>
